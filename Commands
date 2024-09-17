@@ -1,0 +1,10 @@
+
+!join: Makes the bot join your current voice channel.
+!play <YouTube URL>: Plays a song from the provided YouTube URL.
+!stop: Stops the currently playing music.
+!leave: Disconnects the bot from the voice channel.
+
+
+You can extend this bot by adding more features like music queues, volume control, etc.
+
+Let me know if you need help with hosting or extending this bot!
